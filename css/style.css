@@ -1,0 +1,12 @@
+body {
+  padding-top: 3.5rem;
+}
+.sentText {
+  color: blue;
+  text-transform: uppercase;
+}
+.container{
+
+  margin-left: 500px;
+  margin-top: 100px;
+}
